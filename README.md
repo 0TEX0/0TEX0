@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UC91Q_nJrAbSi4Mr21F8kz3g">
-  <img align="left" width="14.2%" src="https://img.shields.io/badge/0TEX0-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  <img align="left" width="12.6%" src="https://img.shields.io/badge/0TEX0-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 
 <br>
