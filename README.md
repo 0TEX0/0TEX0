@@ -6,6 +6,7 @@
  Success comes to those who show effort and preparation.
 </details> 
 
+<br>
 
 ## 📍 information
 
