@@ -36,3 +36,13 @@
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=0TEX0&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0A0C10"/>
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0TEX0&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0A0C10"/>
 </a>
+
+<br>
+
+## ❤ Views 
+
+<br>
+
+<a href="https://github.com/0TEX0">
+    <img src="https://komarev.com/ghpvc/?username=0TEX0">
+</a>
