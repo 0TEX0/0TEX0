@@ -20,16 +20,6 @@
 
 <br>
 
-## 📌 Repositories
-<br>
-<a href="https://github.com/0TEX0/V-Admin">
-  <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=0TEX0&repo=V-Admin&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=0A0C10" />
-</a>
-
-<a href="https://github.com/0TEX0/vJail">
-  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=0TEX0&repo=vJail&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=0A0C10" />
-</a>
-
 ## 📈 GitHub Stats
 <br>
 <a href="https://github.com/0TEX0">
@@ -42,7 +32,6 @@
 ## ❤ Views 
 
 <br>
-
 <a href="https://github.com/0TEX0">
     <img src="https://komarev.com/ghpvc/?username=0TEX0">
 </a>
